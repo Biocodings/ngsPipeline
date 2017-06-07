@@ -5,7 +5,7 @@
       <paths name="FirstD">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/ngsPipeline" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
